@@ -1,0 +1,1136 @@
+
+**************************************************
+
+Accuracy test:0.5673203
+Accuracy train:0.5470588
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5559913
+Accuracy train:0.54989105
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.54945534
+Accuracy train:0.55152506
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:10 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5472767
+Accuracy train:0.5520697
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:10 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5459695
+Accuracy train:0.9295207
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:10 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.54509807
+Accuracy train:0.85076255
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:10 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5538126
+Accuracy train:0.5504357
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:10 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.595207
+Accuracy train:0.66427016
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:10 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5446623
+Accuracy train:0.5527233
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:50 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53943354
+Accuracy train:0.5540305
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:50 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5769063
+Accuracy train:0.5446623
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:50 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5546841
+Accuracy train:0.55021787
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:50 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5590414
+Accuracy train:0.89749455
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:50 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.49978215
+Accuracy train:0.84074074
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:50 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5529412
+Accuracy train:0.5506536
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:50 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5647059
+Accuracy train:0.54771245
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:50 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5542484
+Accuracy train:0.5503268
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:100 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53943354
+Accuracy train:0.5540305
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:100 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5590414
+Accuracy train:0.54912853
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:100 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5538126
+Accuracy train:0.5504357
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:100 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.491939
+Accuracy train:0.80664486
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:100 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.49237472
+Accuracy train:0.798366
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:100 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5546841
+Accuracy train:0.55021787
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:100 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5337691
+Accuracy train:0.5554466
+Learning rate:0.1 Epochs:5000 Batch size:50 Hidden units:100 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.54640526
+Accuracy train:0.5522876
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.540305
+Accuracy train:0.5538126
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.54640526
+Accuracy train:0.5522876
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:10 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.55119824
+Accuracy train:0.55108935
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:10 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.45882353
+Accuracy train:0.8425926
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:10 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5041394
+Accuracy train:0.8422658
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:10 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53464055
+Accuracy train:0.55522877
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:10 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5429194
+Accuracy train:0.55315906
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:10 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.56078434
+Accuracy train:0.5486928
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:50 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5586057
+Accuracy train:0.5492375
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:50 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.540305
+Accuracy train:0.5538126
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:50 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5559913
+Accuracy train:0.54989105
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:50 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.47189543
+Accuracy train:0.92690635
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:50 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5206972
+Accuracy train:0.90261436
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:50 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53681916
+Accuracy train:0.5546841
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:50 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.56296295
+Accuracy train:0.54814816
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:50 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5337691
+Accuracy train:0.5554466
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:100 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5590414
+Accuracy train:0.54912853
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:100 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.54945534
+Accuracy train:0.55152506
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:100 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.54989105
+Accuracy train:0.5514161
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:100 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.47625273
+Accuracy train:0.8114379
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:100 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.4832244
+Accuracy train:0.80021787
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:100 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5472767
+Accuracy train:0.5520697
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:100 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5559913
+Accuracy train:0.54989105
+Learning rate:0.1 Epochs:5000 Batch size:100 Hidden units:100 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.55119824
+Accuracy train:0.55108935
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5472767
+Accuracy train:0.5520697
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5769063
+Accuracy train:0.5446623
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:10 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.56252724
+Accuracy train:0.54825705
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:10 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5159041
+Accuracy train:0.9230937
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:10 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.49237472
+Accuracy train:0.835512
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:10 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5533769
+Accuracy train:0.5505447
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:10 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5660131
+Accuracy train:0.54738563
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:10 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53464055
+Accuracy train:0.55522877
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:50 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5429194
+Accuracy train:0.55315906
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:50 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5520697
+Accuracy train:0.55087143
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:50 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.54814816
+Accuracy train:0.55185187
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:50 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.48104575
+Accuracy train:0.9438998
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:50 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5211329
+Accuracy train:0.8615468
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:50 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.54640526
+Accuracy train:0.5522876
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:50 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53681916
+Accuracy train:0.5546841
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:50 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5546841
+Accuracy train:0.55021787
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:100 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.57559913
+Accuracy train:0.5449891
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:100 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5555556
+Accuracy train:0.55
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:100 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53638345
+Accuracy train:0.554793
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:100 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.47102398
+Accuracy train:0.80915034
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:100 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.45925927
+Accuracy train:0.8027233
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:100 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5520697
+Accuracy train:0.55087143
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:100 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53464055
+Accuracy train:0.55522877
+Learning rate:0.1 Epochs:5000 Batch size:150 Hidden units:100 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5555556
+Accuracy train:0.55
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53943354
+Accuracy train:0.5540305
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5559913
+Accuracy train:0.54989105
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:10 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5681917
+Accuracy train:0.54684097
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:10 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5285403
+Accuracy train:0.9348584
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:10 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.50152504
+Accuracy train:0.8678649
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:10 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5555556
+Accuracy train:0.7110022
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:10 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.54945534
+Accuracy train:0.55152506
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:10 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5542484
+Accuracy train:0.5503268
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:50 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5542484
+Accuracy train:0.5503268
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:50 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5647059
+Accuracy train:0.54771245
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:50 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5459695
+Accuracy train:0.55239654
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:50 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.48976034
+Accuracy train:0.87603486
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:50 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.49803922
+Accuracy train:0.86122006
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:50 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.56252724
+Accuracy train:0.54825705
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:50 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.556427
+Accuracy train:0.54978216
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:50 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5520697
+Accuracy train:0.55087143
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:100 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5459695
+Accuracy train:0.55239654
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:100 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5337691
+Accuracy train:0.5554466
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:100 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.567756
+Accuracy train:0.54694986
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:100 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.42657954
+Accuracy train:0.8477124
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:100 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.46448803
+Accuracy train:0.81928104
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:100 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5769063
+Accuracy train:0.5446623
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:100 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.54989105
+Accuracy train:0.5514161
+Learning rate:0.1 Epochs:5000 Batch size:200 Hidden units:100 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5533769
+Accuracy train:0.5505447
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.540305
+Accuracy train:0.5538126
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.56252724
+Accuracy train:0.54825705
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:10 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.56296295
+Accuracy train:0.54814816
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:10 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.4553377
+Accuracy train:0.90882355
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:10 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.52418303
+Accuracy train:0.8493464
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:10 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5538126
+Accuracy train:0.5504357
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:10 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53638345
+Accuracy train:0.554793
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:10 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.54771245
+Accuracy train:0.55196077
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:50 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.54945534
+Accuracy train:0.55152506
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:50 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.56078434
+Accuracy train:0.5486928
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:50 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5681917
+Accuracy train:0.54684097
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:50 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53333336
+Accuracy train:0.9162309
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:50 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.54509807
+Accuracy train:0.8875817
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:50 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.54945534
+Accuracy train:0.55152506
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:50 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.57472765
+Accuracy train:0.643464
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:50 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5559913
+Accuracy train:0.54989105
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:100 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5337691
+Accuracy train:0.5554466
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:100 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5446623
+Accuracy train:0.5527233
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:100 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.56078434
+Accuracy train:0.5486928
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:100 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.4540305
+Accuracy train:0.8138344
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:100 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5050109
+Accuracy train:0.8005447
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:100 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5459695
+Accuracy train:0.55239654
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:100 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5546841
+Accuracy train:0.55021787
+Learning rate:0.1 Epochs:10000 Batch size:50 Hidden units:100 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.54771245
+Accuracy train:0.55196077
+Learning rate:0.1 Epochs:10000 Batch size:100 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5398693
+Accuracy train:0.5539216
+Learning rate:0.1 Epochs:10000 Batch size:100 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5546841
+Accuracy train:0.55021787
+Learning rate:0.1 Epochs:10000 Batch size:100 Hidden units:10 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.54771245
+Accuracy train:0.55196077
+Learning rate:0.1 Epochs:10000 Batch size:100 Hidden units:10 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.44008714
+Accuracy train:0.93169934
+Learning rate:0.1 Epochs:10000 Batch size:100 Hidden units:10 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5520697
+Accuracy train:0.55087143
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5520697
+Accuracy train:0.55087143
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:10 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:10 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5180828
+Accuracy train:0.9022876
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:10 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.51111114
+Accuracy train:0.84270155
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:10 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5647059
+Accuracy train:0.7377996
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:10 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5546841
+Accuracy train:0.7373638
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:10 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:50 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:50 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:50 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:50 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.51328975
+Accuracy train:0.8917211
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:50 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.51459694
+Accuracy train:0.8611111
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:50 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:50 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5572985
+Accuracy train:0.73681915
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:50 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:100 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:100 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:100 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:100 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.4932462
+Accuracy train:0.91187364
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:100 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5058824
+Accuracy train:0.8399782
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:100 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:100 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5459695
+Accuracy train:0.7375817
+Learning rate:0.01 Epochs:5000 Batch size:50 Hidden units:100 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:10 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:10 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.4962963
+Accuracy train:0.94880176
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:10 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.50980395
+Accuracy train:0.76623094
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:10 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5433551
+Accuracy train:0.7490196
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:10 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5433551
+Accuracy train:0.8506536
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:10 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:50 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:50 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:50 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:50 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.4936819
+Accuracy train:0.8843137
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:50 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.52200437
+Accuracy train:0.8392157
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:50 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5568628
+Accuracy train:0.74095863
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:50 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5411765
+Accuracy train:0.746732
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:50 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:100 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:100 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:100 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:100 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.49281046
+Accuracy train:0.94803923
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:100 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.49019608
+Accuracy train:0.8818083
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:100 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:100 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:200 Hidden units:100 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:10 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:10 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.52156866
+Accuracy train:0.9578431
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:10 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5294118
+Accuracy train:0.9562091
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:10 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5416122
+Accuracy train:0.8751634
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:10 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.54814816
+Accuracy train:0.87363833
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:10 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:50 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:50 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:50 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:50 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.51154685
+Accuracy train:0.95599127
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:50 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.52636164
+Accuracy train:0.9563181
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:50 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.54858387
+Accuracy train:0.8772331
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:50 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5389978
+Accuracy train:0.86252725
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:50 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:100 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:100 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:100 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:100 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.48801744
+Accuracy train:0.95152503
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:100 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.491939
+Accuracy train:0.9103486
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:100 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5472767
+Accuracy train:0.7479303
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:100 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.5472767
+Accuracy train:0.74651414
+Learning rate:0.01 Epochs:5000 Batch size:500 Hidden units:100 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:10 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:10 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5076253
+Accuracy train:0.94923747
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:10 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5311547
+Accuracy train:0.95043576
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:10 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5559913
+Accuracy train:0.7392157
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:10 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.55076253
+Accuracy train:0.74008715
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:10 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:50 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:50 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:50 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:50 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.5298475
+Accuracy train:0.94509804
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:50 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.5159041
+Accuracy train:0.85577345
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:50 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:50 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.56296295
+Accuracy train:0.7276688
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:50 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:100 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:100 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:100 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:100 Layer function:relu Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.4945534
+Accuracy train:0.8996732
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:100 Layer function:softmax Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.51285404
+Accuracy train:0.7571896
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:100 Layer function:softmax Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.56252724
+Accuracy train:0.7359477
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:100 Layer function:softmax Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:50 Hidden units:100 Layer function:softmax Logits:prediction Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:200 Hidden units:10 Layer function:relu Logits:y_ Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:200 Hidden units:10 Layer function:relu Logits:y_ Cost function:sigmoid
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:200 Hidden units:10 Layer function:relu Logits:prediction Cost function:softmax
+**************************************************
+
+Accuracy test:0.53769064
+Accuracy train:0.55446625
+Learning rate:0.01 Epochs:10000 Batch size:200 Hidden units:10 Layer function:relu Logits:prediction Cost function:sigmoid

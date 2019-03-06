@@ -1,0 +1,37 @@
+import pandas as pd
+ 
+x=pd.read_csv('commits.csv')
+y=pd.read_csv('issues.csv')
+
+# join commits.csv and issues.csv by 'key' column intersection
+# this will keep commits with full information from both files
+z=pd.merge(x, y, how='inner', on='key')
+
+
+# for bug in datetime format in csv files 
+# eg.datetime was 0010-10-28T10:07:00.000+0000 need to be 2010-10-28T10:07:00.000+0000
+for i in z.index:    
+    if z.loc[i, 'created'][:2]=='00':
+        z.loc[i, 'created']='20' + z.loc[i, 'created'][2:]
+
+
+# sort by column 'created'
+z.sort_values(by=['created'])
+
+
+# group by 'author name' and top 10 most productive
+z.groupby(['author_name']).count().sort_values(['key'], ascending=False).head(10)
+
+
+# filter issuetype == 'Bug'
+z[z['issuetype']=='Bug']
+
+# print commits between 1 April 2016 and 1 October 2016 and severity==10
+z[(z['created']>'2016-04-01')&(z['created']<'2016-10-01')&(z['severity']==10)]
+
+# count commits between 1 April 2016 and 1 October 2016 and severity==10
+z[(z['created']>'2016-04-01')&(z['created']<'2016-10-01')&(z['severity']==10)].count()
+
+# top 10 most longer commits
+z['duration']=pd.to_datetime(z['resolved'])-pd.to_datetime(z['created'])
+z.sort_values(by=['duration'], ascending=False).head(10)

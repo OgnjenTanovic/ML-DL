@@ -1,0 +1,49 @@
+About text classification
+
+Text classification is one of the tasks in Natural Language Processing (NLP).
+
+Data in the form of text is everywhere: emails, chats, web pages, social media and more. Text can be an extremely rich source of information. And main goal of text classification is to automatically classify the text documents into one or more pre-defined categories.
+
+Classifying a document under a pre-defined class is based primarily on keywords in the text.
+
+As in every supervised machine learning task, an initial dataset is needed.
+
+Before data can be fed to a model, it needs to be transformed to a format the model can understand - numbers.
+This means that we will need to convert the texts into numerical vectors.
+
+In this process our first step should be cleaning the data in order to obtain better features. We can achieve this by doing some of the basic pre-processing steps on our training data.
+
+One of the first pre-processing steps is transform our text into lower case. This avoids having multiple copies of the same words. For example, while calculating words, ‘Job’ and ‘job’ will be taken as different words.
+
+Next step can be to remove punctuation, as it doesn’t add any extra information while treating text data. Also this will help to reduce the size of the training data.
+
+There are stop words too. Stop words are useless words like "the”, “a”, “an”, “in” They should be removed from the text data. For this purpose, we can create a list of stopwords ourselves or we can use predefined libraries.
+
+Rare words should be removed too. Because they are so rare, the association between them and other words is dominated by noise. 
+
+There is couple more methods for text pre-processing, like stemming (removal of suffices, like “ing”, “ly”, “s”), lemmatization (converts the word into its root word) etc. And main purpose of this methods is to provide good quality data for model learning.
+
+Next steps are tokenization and vectorization.
+
+With tokenization we divide texts into words or smaller sub-texts, which will enable good generalization of relationship between the texts and the labels. This step determines the “vocabulary” of the dataset. Main two techniques for text tokenization are n-gram and sequence.
+
+N-gram tokenizing text into (usualy word) unigrams, bigrams, trigrams... To generate
+the n-gram vector for a document, a window n words in length is moved through the text, sliding
+forward one word at a time.  
+Sequence Vectors representing the text as a sequence of tokens, preserving order. Text can be represented as either a sequence of characters, or a sequence of words. Usually word-level representation provides better performance than character tokens.
+
+Once when text is converted samples into tokens, we need to turn these tokens into numerical vectors.
+
+There are many vector representations, but this are the most commonly used:
+
+One-hot encoding - every sample text is represented as a vector indicating the presence or absence of a token in the text.
+
+Count encoding - every sample text is represented as a vector indicating the count of a token in the text. 
+
+Tf-idf encoding - reflect how important a word is to a text.
+
+Word embeddings - where the location and distance between words indicates how similar they are semantically.
+
+After tokenization and vectorization we need to choose which machine learning algorithm to apply on classification problem. Most popular are Naive Bayes, Logistic Regression, Decision Trees, Support Vector Machine (SVM)... Every algorithm have self pros and cons, and choice mostly depends from specific task.
+
+On other hand we can make Neural Networks (MLP, CNN, RNN) with Sigmoid, Tanh or ReLU activation functions, and MLP was my choice for this test assignment.
